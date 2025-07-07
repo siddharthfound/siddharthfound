@@ -1,7 +1,7 @@
 <h1 align="center">🕷️ Venom meets Web3</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/1O52qOk2if0AAAAC/venom-venom-last-dance.gif" width="230" alt="Venom hacker" />
+  <img src="https://media.tenor.com/Co6PbjlIHtkAAAAi/venom.gif" width="230" alt="Venom hacker" />
 </p>
 
 <table width="100%">
