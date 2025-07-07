@@ -27,7 +27,8 @@
 
 ## 🛠️ Tech Stack
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity "Solidity")
 ![Foundry](https://img.shields.io/badge/Foundry-%23121011?style=for-the-badge&logo=forge)
 ![Hardhat](https://img.shields.io/badge/Hardhat-%23121011?style=for-the-badge&logo=ethereum)
 ![Truffle](https://img.shields.io/badge/Truffle-5E3C4D?style=for-the-badge&logo=truffle)
