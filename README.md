@@ -27,11 +27,16 @@
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
 ![Foundry](https://img.shields.io/badge/Foundry-%23121011?style=for-the-badge&logo=forge)
 ![Hardhat](https://img.shields.io/badge/Hardhat-%23121011?style=for-the-badge&logo=ethereum)
+![Truffle](https://img.shields.io/badge/Truffle-5E3C4D?style=for-the-badge&logo=truffle)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+
 
 ---
 
