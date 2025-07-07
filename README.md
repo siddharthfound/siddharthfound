@@ -1,23 +1,23 @@
 <h1 align="center">🕷️ Venom meets Web3</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/1O52qOk2if0AAAAC/venom-venom-last-dance.gif" width="150" alt="Venom hacker" />
+  <img src="https://media1.tenor.com/m/1O52qOk2if0AAAAC/venom-venom-last-dance.gif" width="220" alt="Venom hacker" />
 </p>
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="70%" valign="top">
 
-<h3>We are Siddhu — smart contract auditor by day, Web3 hunter by night.</h3>
+<h3><b>We are Siddhu — smart contract auditor by day, Web3 hunter by night.</b></h3>
 
-💥 Web3 hacker in the wild | Smart Contract Auditor  
-🚀 I break things so protocols don’t break users  
-🧪 Exploiting, auditing & fuzzing EVM-based contracts  
-🕸️ Powered by curiosity, caffeine & a little bit of symbiote  
+- 🌌 Web3 hacker in the wild | Smart Contract Auditor  
+- 🚀 I break things so protocols don’t break users  
+- 🧪 Exploiting, auditing & fuzzing EVM-based contracts  
+- 🕸️ Powered by curiosity, caffeine & a little bit of symbiote  
 
 </td>
-<td align="center">
-  <img src="https://c.tenor.com/oP-aF8ZesJQAAAAC/tenor.gif" width="180" alt="Venom Side GIF" />
+<td align="center" width="30%">
+  <img src="https://c.tenor.com/oP-aF8ZesJQAAAAC/tenor.gif" width="140" alt="Ethereum Terminal" />
 </td>
 </tr>
 </table>
@@ -58,4 +58,4 @@
 
 ---
 
-> "We are venom... and we audit DeFi." 🕷️
+> <p align="center"><i>"We are Venom... and we audit DeFi."</i> 🕷️</p>
