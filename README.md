@@ -4,6 +4,8 @@
   <img src="https://media1.tenor.com/m/1O52qOk2if0AAAAC/venom-venom-last-dance.gif" width="300" alt="Venom hacker" />
 </p>
 
+<div class="tenor-gif-embed" data-postid="21354314" data-share-method="host" data-aspect-ratio="0.703125" data-width="100%"><a href="https://tenor.com/view/eth-ethereum-gif-21354314">Eth Ethereum GIF</a>from <a href="https://tenor.com/search/eth-gifs">Eth GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <h3 align="center">We are Siddhu — smart contract auditor by day, Web3 hunter by night.</h3>
 
 ---
