@@ -47,7 +47,7 @@
 ## 🕸️ Let’s Connect
 
 - 🐦 Twitter/X: [@audit0xSiddhu](https://x.com/audit0xSiddhu)  
-- 💼 Gmail: `mailto:siddharth.found96@gmail.com`  
+- 📧 Email: [siddharth.found96@gmail.com](mailto:siddharth.found96@gmail.com)  
 - 🧠 Currently: Building & breaking smart contracts in the shadows
 
 ---
