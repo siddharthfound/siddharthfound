@@ -1,28 +1,23 @@
 <h1 align="center">🕷️ Venom meets Web3</h1>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/1O52qOk2if0AAAAC/venom-venom-last-dance.gif" width="300" alt="Venom hacker" />
-</p>
-
-
-<h3 align="center">We are Siddhu — smart contract auditor by day, Web3 hunter by night.</h3>
-
----
 <table>
-  
-## 👋 Who Am I?
+  <tr>
+    <td width="60%">
+
+<h3>We are Siddhu — smart contract auditor by day, Web3 hunter by night.</h3>
 
 💥 Web3 hacker in the wild | Smart Contract Auditor  
 🚀 I break things so protocols don’t break users  
 🧪 Exploiting, auditing & fuzzing EVM-based contracts  
-🕸️ Powered by curiosity, caffeine & a little bit of symbiote
+🕸️ Powered by curiosity, caffeine & a little bit of symbiote  
 
-  </td>
-  <td>
-    <img src="https://c.tenor.com/oP-aF8ZesJQAAAAC/tenor.gif" width="250" />
-  </td>
-  </tr>
-  </table>
+</td>
+<td align="center">
+  <img src="https://c.tenor.com/oP-aF8ZesJQAAAAC/tenor.gif" width="250" alt="Venom GIF" />
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🧠 What I Do
@@ -35,7 +30,6 @@
 
 ## 🛠️ Tech Stack
 
-
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity "Solidity")
 ![Foundry](https://img.shields.io/badge/Foundry-%23121011?style=for-the-badge&logo=forge)
 ![Hardhat](https://img.shields.io/badge/Hardhat-%23121011?style=for-the-badge&logo=ethereum)
@@ -43,7 +37,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-
 
 ---
 
@@ -61,4 +54,4 @@
 
 ---
 
-> "We are venom... and we audit DeFi." 🕷️  
+> "We are venom... and we audit DeFi." 🕷️
