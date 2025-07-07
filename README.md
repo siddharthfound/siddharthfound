@@ -1,8 +1,12 @@
 <h1 align="center">🕷️ Venom meets Web3</h1>
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/1O52qOk2if0AAAAC/venom-venom-last-dance.gif" width="150" alt="Venom hacker" />
+</p>
+
 <table>
   <tr>
-    <td width="60%">
+    <td>
 
 <h3>We are Siddhu — smart contract auditor by day, Web3 hunter by night.</h3>
 
@@ -13,7 +17,7 @@
 
 </td>
 <td align="center">
-  <img src="https://c.tenor.com/oP-aF8ZesJQAAAAC/tenor.gif" width="250" alt="Venom GIF" />
+  <img src="https://c.tenor.com/oP-aF8ZesJQAAAAC/tenor.gif" width="180" alt="Venom Side GIF" />
 </td>
 </tr>
 </table>
@@ -30,7 +34,7 @@
 
 ## 🛠️ Tech Stack
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity "Solidity")
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
 ![Foundry](https://img.shields.io/badge/Foundry-%23121011?style=for-the-badge&logo=forge)
 ![Hardhat](https://img.shields.io/badge/Hardhat-%23121011?style=for-the-badge&logo=ethereum)
 ![Truffle](https://img.shields.io/badge/Truffle-5E3C4D?style=for-the-badge&logo=truffle)
