@@ -21,7 +21,7 @@
 
 - 🔎 Audit smart contracts & hunt vulnerabilities in DeFi, DAOs & Web3 protocols  
 - ⚒️ Build PoCs and exploit labs using Foundry & Hardhat  
-- 🎯 Bug bounty hunter on [HackenProof](https://hackenproof.com/hackers/Siddhu), [Code4rena](https://code4rena.com/), [Immunefi](https://immunefi.com/)
+- 🎯 Bug bounty hunter on [HackenProof](https://hackenproof.com/hackers/Siddhu), [Code4rena](https://code4rena.com/@siddhu), [codehawks](https://profiles.cyfrin.io/u/amazingvalley620)
 
 ---
 
