@@ -1,12 +1,12 @@
 <h1 align="center">🕷️ Venom meets Web3</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/1O52qOk2if0AAAAC/venom-venom-last-dance.gif" width="220" alt="Venom hacker" />
+  <img src="https://media1.tenor.com/m/1O52qOk2if0AAAAC/venom-venom-last-dance.gif" width="230" alt="Venom hacker" />
 </p>
 
 <table width="100%">
   <tr>
-    <td width="70%" valign="top">
+    <td width="80%" valign="top">
 
 <h3><b>We are Siddhu — smart contract auditor by day, Web3 hunter by night.</b></h3>
 
@@ -16,8 +16,8 @@
 - 🕸️ Powered by curiosity, caffeine & a little bit of symbiote  
 
 </td>
-<td align="center" width="30%">
-  <img src="https://c.tenor.com/oP-aF8ZesJQAAAAC/tenor.gif" width="140" alt="Ethereum Terminal" />
+<td align="center" width="20%">
+  <img src="https://c.tenor.com/oP-aF8ZesJQAAAAC/tenor.gif" width="65" alt="ETH icon small" />
 </td>
 </tr>
 </table>
