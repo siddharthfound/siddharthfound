@@ -8,7 +8,8 @@
 <h3 align="center">We are Siddhu — smart contract auditor by day, Web3 hunter by night.</h3>
 
 ---
-
+<table>
+  
 ## 👋 Who Am I?
 
 💥 Web3 hacker in the wild | Smart Contract Auditor  
@@ -16,14 +17,12 @@
 🧪 Exploiting, auditing & fuzzing EVM-based contracts  
 🕸️ Powered by curiosity, caffeine & a little bit of symbiote
 
----
-
   </td>
   <td>
     <img src="https://c.tenor.com/oP-aF8ZesJQAAAAC/tenor.gif" width="250" />
   </td>
   </tr>
-  
+  </table>
 ---
 
 ## 🧠 What I Do
