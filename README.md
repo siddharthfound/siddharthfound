@@ -42,7 +42,6 @@
 
 ## 📌 Featured Projects
 
-- 🔊 `voice-ai` – Voice AI model integrated with ChatGPT  
 - 💣 Coming soon: DeFi exploit labs, Foundry-based fuzzers, and audit templates
 
 ---
