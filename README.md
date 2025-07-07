@@ -1,7 +1,7 @@
 <h1 align="center">🕷️ Venom meets Web3</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/SuP9H9Lks14AAAAC/venom.gif" width="300" alt="Venom hacker" />
+  <img src="https://media1.tenor.com/m/1O52qOk2if0AAAAC/venom-venom-last-dance.gif" width="300" alt="Venom hacker" />
 </p>
 
 <h3 align="center">We are Siddhu — smart contract auditor by day, Web3 hunter by night.</h3>
