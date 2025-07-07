@@ -27,8 +27,6 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
 ![Foundry](https://img.shields.io/badge/Foundry-%23121011?style=for-the-badge&logo=forge)
 ![Hardhat](https://img.shields.io/badge/Hardhat-%23121011?style=for-the-badge&logo=ethereum)
@@ -49,7 +47,7 @@
 ## 🕸️ Let’s Connect
 
 - 🐦 Twitter/X: [@audit0xSiddhu](https://x.com/audit0xSiddhu)  
-- 💼 GitHub: `@siddharthfound`  
+- 💼 Gmail: `siddharth.found96@gmail.com`  
 - 🧠 Currently: Building & breaking smart contracts in the shadows
 
 ---
